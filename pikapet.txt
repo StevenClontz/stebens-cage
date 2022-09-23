@@ -1,0 +1,9 @@
+<!-- Adopt A Pikachu Code Snippet -->
+<center><img src="http://members.tripod.com/~crazyfx/pika1.gif" width="96" height="80">
+<br>
+Meet my Pikachu "___"
+<br>
+<a href="http://welcome.to/adoptapikachu"><img  src="http://members.tripod.com/~crazyfx/adoptpika.gif" border="0" width="90" height="30">
+<br>
+<b>Click <u>HERE</u> to get your own Pikachu!</b></a></center>
+<!-- End Adopt A Pikachu Code Snippet -->

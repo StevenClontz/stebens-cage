@@ -1,0 +1,68 @@
+Dear Steben,
+
+Thank you for signing up, and welcome to Homestead.com!
+
+Here are a few important items you may want to save in your 
+records.
+Your member name is: Steben
+Your password is: bobhobo1
+Your Homestead Web site name is: StebensCage
+Your Web site address:  http://www.homestead.com/StebensCage/ + page name + .html
+Your new Homestead e-mail address is: Steben@homestead.com
+
+Be sure to try all our FREE Homestead services, including:
+*  Homestead SiteBuilder
+*  Your own @homestead.com e-mail account
+*  A personal online calendar service
+*  Free traffic and visitor statistics for your Web site
+*  A tutorial and extensive, searchable help documents
+*  Ideas & guidance for building your site
+
+
+HERE'S HOW TO START YOUR WEB SITE:
+1. Go to http://www.homestead.com/~site/login/login.ffhtml and
+   log in to your Homestead account using your member name and
+   password.  (If you've forgotten your member name or password,
+   see the account information at the beginning of this message.)
+2. From the menu on the left side of the screen, under 'My Web
+   Sites,' click the name of the Web site you want to work on.
+   A new page containing a list of the pages and files in your
+   site should appear.
+3. Click the 'New Web Page' button.  The New Page window should
+   appear.
+4. Click either the 'Blank (No Template)' radio button, or
+   select a pre-built customizable template from the drop-down
+   menu.
+5. Click the 'OK' button.
+6. If you chose to start with a template, select a style type
+   for your template, and click the 'OK' button.
+7. The SiteBuilder window should now load.  Within this window,
+   you can edit and customize your Web page.
+
+
+SPECIAL CONSIDERATIONS FOR AOL USERS
+We have discovered that the customized browser associated with
+AOL does not fully support Homestead SiteBuilder.  In order to
+access Homestead, please use your AOL account as your Internet
+connection but use a browser on your local computer (as opposed
+to AOL's browser) in order to see your account and your Web
+sites.  Here's how:
+1. Login to AOL.
+2. Reduce the AOL window by clicking on the button with the
+   underscore (_) in the upper right hand corner of the AOL
+   window.
+3. Open Internet Explorer by double-clicking the desktop icon.
+   (If you do not see the IE icon on your desktop, click on the
+   'Start' button in the lower left corner of your screen. Then,
+   select 'Programs.' Within 'Programs', look for Internet Explorer.
+4. Once you have opened the IE browser window, login to your
+   Homestead account.
+
+
+We are very glad to have you as a Homestead member. Please feel 
+free to tell us how we're doing or ask any questions you 
+may have about our service. You can contact our customer 
+support team anytime at:
+http://www.homestead.com/~site/go/support.ffhtml
+
+Thanks again, and welcome to Homestead!
